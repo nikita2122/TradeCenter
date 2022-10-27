@@ -1,0 +1,21 @@
+
+Local Time:   Sun Sep 18 11:42:24 2022
+Hack Detect:    Suspicious programs 
+Full Path:      F:\Games\Conan Exiles Complete Edition\ConanSandbox\Binaries\Win64\ConanSandbox.exe
+HardwareID:     8C5D3793-638C5EA6-CAA6E5EA-316A438E
+---------------------------------------------------
+Local Time:   Sun Sep 18 19:25:57 2022
+Hack Detect:    Suspicious programs 
+Full Path:      F:\Games\Conan Exiles Complete Edition\ConanSandbox\Binaries\Win64\ConanSandbox.exe
+HardwareID:     8C5D3793-638C5EA6-CAA6E5EA-316A438E
+---------------------------------------------------
+Local Time:   Sun Sep 25 12:29:32 2022
+Hack Detect:    Suspicious programs 
+Full Path:      F:\Games\Conan Exiles Complete Edition\ConanSandbox\Binaries\Win64\ConanSandbox.exe
+HardwareID:     8C5D3793-638C5EA6-CAA6E5EA-316A438E
+---------------------------------------------------
+Local Time:   Sun Sep 25 19:30:42 2022
+Hack Detect:    Suspicious programs 
+Full Path:      F:\Games\Conan Exiles Complete Edition\ConanSandbox\Binaries\Win64\ConanSandbox.exe
+HardwareID:     8C5D3793-638C5EA6-CAA6E5EA-316A438E
+---------------------------------------------------

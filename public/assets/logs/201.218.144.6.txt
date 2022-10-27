@@ -1,0 +1,6 @@
+
+Local Time:   Sat Sep 24 17:41:30 2022
+Hack Detect:    iCeBreak v4
+Full Path:      O:\Program Files (x86)\IObit\Advanced SystemCare\ASCService.exe
+HardwareID:     FB395AE4-40AA7C87-EF80C3CB-783C40BA
+---------------------------------------------------

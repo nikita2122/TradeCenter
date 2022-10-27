@@ -1,0 +1,11 @@
+
+Local Time:   Sun Sep 25 03:51:29 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+HardwareID:     E44641F5-6EE829A6-D9C5869D-33765FFD
+---------------------------------------------------
+Local Time:   Sun Sep 25 14:55:08 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+HardwareID:     E44641F5-6EE829A6-D9C5869D-33765FFD
+---------------------------------------------------

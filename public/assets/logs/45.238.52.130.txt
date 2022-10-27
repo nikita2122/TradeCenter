@@ -1,0 +1,51 @@
+
+Local Time:   Sun Sep 25 20:46:04 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 20:53:37 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 21:01:57 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 21:11:17 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 21:20:38 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 22:22:21 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 22:24:27 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 22:26:43 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 22:28:55 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------
+Local Time:   Sun Sep 25 22:31:04 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe
+HardwareID:     88544BFB-638C5EA6-DBA6E5EA-2A76518C
+---------------------------------------------------

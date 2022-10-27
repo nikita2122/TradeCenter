@@ -1,0 +1,16 @@
+
+Local Time:   Mon Sep 12 10:29:14 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+HardwareID:     933F59E2-43DD7EE9-E883ADA5-0E517ABB
+---------------------------------------------------
+Local Time:   Mon Sep 19 01:00:50 2022
+Hack Detect:    Hack detected by TitanScan 
+Full Path:      D:\FORMATEO DOMINGO\ESCRITORIO\RosadinTV\RosadinTV.exe
+HardwareID:     933F59E2-43DD7EE9-E883ADA5-0E517ABB
+---------------------------------------------------
+Local Time:   Tue Sep 20 20:33:29 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe
+HardwareID:     933F59E2-43DD7EE9-E883ADA5-0E517ABB
+---------------------------------------------------

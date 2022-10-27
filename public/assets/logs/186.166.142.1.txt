@@ -1,0 +1,71 @@
+
+Local Time:   Fri Sep 09 16:28:00 2022
+Hack Detect:    Suspicious programs 
+Full Path:      C
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Fri Sep 09 20:05:27 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Local\Discord\app-1.0.9006\Discord.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Fri Sep 09 20:05:27 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Local\Discord\app-1.0.9006\Discord.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Thu Sep 15 19:50:59 2022
+Hack Detect:    Suspicious programs 
+Full Path:      ?
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 00:39:15 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 00:40:21 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 02:25:51 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 02:30:23 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 06:01:27 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 06:12:33 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 06:14:23 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 06:27:20 2022
+Hack Detect:    iCeBreak v4
+Full Path:      C:\Users\yisus\AppData\Roaming\amd64_microsoft-windows-s..llercommandlinetool_31bf3856ad364e35_10.0.19041.1_none_2a5f489c740a390b\mfxplugin32_hw.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Sun Sep 18 06:51:01 2022
+Hack Detect:    Hack detected by brute force 
+Full Path:      C:\Users\yisus\Desktop\Mu Cosmo sin Sonido\Cosmo.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
+Local Time:   Tue Sep 20 17:28:55 2022
+Hack Detect:    Suspicious programs 
+Full Path:      C:\Program Files (x86)\Entropia Universe\bin32\ClientLoader.exe
+HardwareID:     E42749F0-6EE829A6-B3C7869D-456F5EEE
+---------------------------------------------------
