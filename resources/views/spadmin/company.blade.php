@@ -25,6 +25,7 @@
                         <tr>
                             <th>Name</th>
                             <th>Address</th>
+                            <th>Phone Number</th>
                             <th></th>
                         </tr>
                         </thead>
@@ -33,6 +34,7 @@
                             <tr data-id="{{ $company->id }}">
                                 <td class="company-name"> {{ $company->name }}</td>
                                 <td class="company-address"> {{ $company->address }}</td>
+                                <td class="company-phoneno"> {{ $company->phone_no }}</td>
                                 <td>
                                     <a href="#" class="on-default edit-company"><i class="fa fa-edit"></i></a>
                                     <a href="#" class="on-default remove-company"><i class="fa fa-trash-o"></i></a>
@@ -65,6 +67,12 @@
                         <input type="text" class="form-control" id="company-address"/>
                     </div>
                 </div>
+                <div class="row mt-md">
+                    <label class="col-md-3">Phone Number</label>
+                    <div class="col-md-9">
+                        <input type="text" class="form-control" id="company-phoneno"/>
+                    </div>
+                </div>
             </div>
             <footer class="panel-footer">
                 <div class="row">
@@ -85,13 +93,14 @@
 
             var editId = 0;
             var isEdit = false;
-            var name, address;
+            var name, address, phoneno;
 
             function getData ($this) {
                 var $tr = $this.closest("tr");
                 editId = $tr.data('id');
                 name = $tr.find("td[class=company-name]").text().trim();
                 address = $tr.find("td[class=company-address]").text().trim();
+                phoneno = $tr.find("td[class=company-phoneno]").text().trim();
             }
 
             function onResponse (resp) {
@@ -107,6 +116,7 @@
                 $('#edit-dialog .action').text("Add");
                 $('#company-name').val("");
                 $('#company-address').val("");
+                $('#company-phoneno').val("");
                 $.magnificPopup.open({
                     items: {
                         src: '#edit-dialog',
@@ -122,6 +132,7 @@
                 $('#edit-dialog .action').text("Edit");
                 $('#company-name').val(name);
                 $('#company-address').val(address);
+                $('#company-phoneno').val(phoneno);
 
                 $.magnificPopup.open({
                     items: {
@@ -155,15 +166,19 @@
 
                 var newName = $('#company-name').val();
                 var newAddress = $('#company-address').val();
+                var newPhoneNo = $('#company-phoneno').val();
 
                 if(newName.length == 0)
                     return toastr.warning("Name cannot be empty.");
                 if(newAddress.length == 0)
                     return toastr.warning("Address cannot be empty.");
+                if(newPhoneNo.length == 0)
+                    return toastr.warning("Phone number cannot be empty.");
 
                 var data = {
                     name: newName,
-                    address: newAddress
+                    address: newAddress,
+                    phone_no: newPhoneNo
                 };
                 if (isEdit)
                     data['id'] = editId;

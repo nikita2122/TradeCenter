@@ -42,10 +42,16 @@ class ExchangeController extends Controller
 
     public function get_list (Request $request)
     {
-        $data = Exchange::get();
+        $user = Auth::user();
+        if ($user->approve == 2)
+            $data = Exchange::where('company_id', $user->company_id)->get();
+        else
+            $data = Exchange::where('company_id', $user->company_id)
+                ->where('user_id', $user->id)
+                ->get();
         $result = [];
         foreach ($data as $datum) {
-            array_push($result, ['data'=>$datum, 'currency'=>$datum->currency]);
+            array_push($result, ['data'=>$datum, 'currency'=>$datum->currency, 'user'=>$datum->user]);
         }
         return Datatables::of($result)->make(true);
     }
@@ -60,9 +66,10 @@ class ExchangeController extends Controller
         return response()->streamDownload(function () {
             echo "\xEF\xBB\xBF";
             $data = Exchange::get();
-            echo "Receipt, Date, Type,Currency,Rate,Amount,Total,Paid Amount By Customer,Company Payment Method,Customer Payment Method,Customer Name\n";
+            echo "Receipt,Attend,Date,Type,Currency,Rate,Amount,Total,Paid Amount By Customer,Company Payment Method,Customer Payment Method,Customer Name,Customer PhoneNo\n";
             foreach ($data as $datum) {
                 $line = str_pad($datum->receipt, 3, '0', STR_PAD_LEFT);
+                $line = $line.','.$datum->user->name;
                 $line = $line.','.$datum->date;
                 $line = $line.','.$datum->method;
                 $line = $line.','.$datum->currency->name;
@@ -81,6 +88,7 @@ class ExchangeController extends Controller
                 $line = $line.','.$datum->company_pay;
                 $line = $line.','.$datum->customer_pay;
                 $line = $line.','.$datum->customer_name;
+                $line = $line.','.$datum->phone_no;
                 $line = $line."\n";
                 echo $line;
             }
@@ -127,7 +135,7 @@ class ExchangeController extends Controller
         $currency = $request['currency'];
 
         $user = Auth::user();
-        $receipt = Exchange::max('receipt') + 1;
+        $receipt = Exchange::where('company_id', $user->company_id)->max('receipt') + 1;
         $exchange = Exchange::create([
             'receipt' => $receipt,
             'company_id' => $user->company_id,

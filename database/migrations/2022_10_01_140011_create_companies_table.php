@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('address');
+            $table->string('phone_no');
             $table->boolean('is_active');
             $table->timestamps();
         });

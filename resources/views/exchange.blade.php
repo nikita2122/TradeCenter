@@ -78,8 +78,8 @@
 <body>
     <div class="box">
         <div class="text-center text-bold text-company-name">{{$exchange->company->name}}</div>
-        <div class="mt-sm">Company Address:{{$exchange->company->address}}</div>
-        <div class="mt-sm">Company Phone Number:{{$exchange->phone_no}}</div>
+        <div class="mt-sm text-center">{{$exchange->company->address}}</div>
+        <div class="mt-sm">Company Phone Number: {{$exchange->company->phone_no}}</div>
         <div class="position-relative mt-sm text-bold  width-100">
             <div>Receipt No:{{str_pad($exchange->receipt, 3, '0', STR_PAD_LEFT)}}</div>
             <div class="right-auto-box">Date:{{date_format(date_create($exchange->date),'m/d/Y')}}</div>

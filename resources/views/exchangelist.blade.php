@@ -36,6 +36,9 @@
                         return ("00"+data).substr(-cut);
                     }
                 },{
+                    title: 'Attend',
+                    data: 'user.name'
+                },{
                     title: 'Date',
                     data: 'data.date'
                 },{

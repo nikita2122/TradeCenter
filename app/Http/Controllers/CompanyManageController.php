@@ -30,6 +30,7 @@ class CompanyManageController extends Controller
         Company::create([
             'name' => $request->name,
             'address' => $request->address,
+            'phone_no' => $request->phone_no,
             'is_active' => true
         ]);
         return response()->json('success');
@@ -40,6 +41,7 @@ class CompanyManageController extends Controller
         Company::where('id', $request->id)->update([
             'name' => $request->name,
             'address' => $request->address,
+            'phone_no' => $request->phone_no
         ]);
         return response()->json('success');
     }

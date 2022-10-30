@@ -28,6 +28,8 @@ Route::get('/', function () {
 
 Auth::routes();
 Route::get('/home', [HomeController::class, 'index'])->name('home');
+Route::get('/profile', [HomeController::class, 'profile'])->name('profile')->middleware('auth');
+Route::post('/changepsd', [HomeController::class, 'change_psd'])->name('changepsd')->middleware('auth');
 
 
 Route::group(['prefix' => 'spadmin'], function () {
